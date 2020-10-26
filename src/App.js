@@ -5,39 +5,29 @@ import axios from "axios";
 
 class App extends Component {
   
-  // constructor(props) {
-  //   super(props);
-  //   this.state = {
-  //     erse: null,
-  //     errorMsg: null,
-  //   };
-  //   this.getVerse = this.getVerse.bind(this);
-  // }
-
   state = {
     verse: null,
     errorMsg: null,
   };
 
   getVerse = () => {
-  // getVerse () {
-    var self = this;
     axios
       .get(`http://quotes.rest/bible/vod.json`)
-      .then(function (response) {
+      .then((response) => {
         // handle success
         console.log(response);
-        self.setState({
-          verse: response.contents.verse,
+        this.setState({
+          verse: response.data.contents.verse,
           errorMsg: null,
         });
       })
-      .catch(function (error) {
+      .catch((error) => {
         // handle error
         console.log(error);
-        self.setState({
+        this.setState({
           verse: null,
-          errorMsg: `Too many requests, wait an hour to get 10 more: ${error}`,
+          errorMsg: `Too Many Requests: Rate limit of 10 requests per hour exceeded`,
+          // errorMsg: `${error.message}`,
         });
       });
   };
