@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/theobasallaje.github.io/the-oracle-at-delphi/static/css/main.ed1ee178.chunk.css",
-    "main.js": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/main.75a93d5a.chunk.js",
-    "main.js.map": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/main.75a93d5a.chunk.js.map",
-    "runtime-main.js": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/runtime-main.fb653836.js",
-    "runtime-main.js.map": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/runtime-main.fb653836.js.map",
-    "static/js/2.757dcd7d.chunk.js": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/2.757dcd7d.chunk.js",
-    "static/js/2.757dcd7d.chunk.js.map": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/2.757dcd7d.chunk.js.map",
-    "static/js/3.caf9ba60.chunk.js": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/3.caf9ba60.chunk.js",
-    "static/js/3.caf9ba60.chunk.js.map": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/3.caf9ba60.chunk.js.map",
+    "main.css": "/theobasallaje.github.io/the-oracle-at-delphi/static/css/main.c4f49134.chunk.css",
+    "main.js": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/main.74017f2f.chunk.js",
+    "main.js.map": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/main.74017f2f.chunk.js.map",
+    "runtime-main.js": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/runtime-main.c0781ce9.js",
+    "runtime-main.js.map": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/runtime-main.c0781ce9.js.map",
+    "static/js/2.1e166d57.chunk.js": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/2.1e166d57.chunk.js",
+    "static/js/2.1e166d57.chunk.js.map": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/2.1e166d57.chunk.js.map",
+    "static/js/3.90b15dd1.chunk.js": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/3.90b15dd1.chunk.js",
+    "static/js/3.90b15dd1.chunk.js.map": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/3.90b15dd1.chunk.js.map",
     "index.html": "/theobasallaje.github.io/the-oracle-at-delphi/index.html",
-    "static/css/main.ed1ee178.chunk.css.map": "/theobasallaje.github.io/the-oracle-at-delphi/static/css/main.ed1ee178.chunk.css.map",
-    "static/js/2.757dcd7d.chunk.js.LICENSE.txt": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/2.757dcd7d.chunk.js.LICENSE.txt",
+    "static/css/main.c4f49134.chunk.css.map": "/theobasallaje.github.io/the-oracle-at-delphi/static/css/main.c4f49134.chunk.css.map",
+    "static/js/2.1e166d57.chunk.js.LICENSE.txt": "/theobasallaje.github.io/the-oracle-at-delphi/static/js/2.1e166d57.chunk.js.LICENSE.txt",
     "static/media/delphi.1d602b9a.jpg": "/theobasallaje.github.io/the-oracle-at-delphi/static/media/delphi.1d602b9a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb653836.js",
-    "static/js/2.757dcd7d.chunk.js",
-    "static/css/main.ed1ee178.chunk.css",
-    "static/js/main.75a93d5a.chunk.js"
+    "static/js/runtime-main.c0781ce9.js",
+    "static/js/2.1e166d57.chunk.js",
+    "static/css/main.c4f49134.chunk.css",
+    "static/js/main.74017f2f.chunk.js"
   ]
 }
