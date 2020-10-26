@@ -5,39 +5,41 @@ import axios from "axios";
 
 class App extends Component {
   
-  constructor(props) {
-    super(props);
-    this.state = {
-      erse: null,
-      errorMsg: null,
-    };
-    this.getVerse = this.getVerse.bind(this);
-  }
+  // constructor(props) {
+  //   super(props);
+  //   this.state = {
+  //     erse: null,
+  //     errorMsg: null,
+  //   };
+  //   this.getVerse = this.getVerse.bind(this);
+  // }
 
-  // state = {
-  //   verse: null,
-  //   errorMsg: null,
-  // };
+  state = {
+    verse: null,
+    errorMsg: null,
+  };
 
-  // getVerse = () => {
-  getVerse () {
-    let verse = axios
+  getVerse = () => {
+  // getVerse () {
+    var self = this;
+    axios
       .get(`http://quotes.rest/bible/vod.json`)
       .then(function (response) {
         // handle success
         console.log(response);
-        this.setState({
+        self.setState({
           verse: response.contents.verse,
+          errorMsg: null,
         });
       })
       .catch(function (error) {
         // handle error
         console.log(error);
-        this.setState({
+        self.setState({
+          verse: null,
           errorMsg: `Too many requests, wait an hour to get 10 more: ${error}`,
         });
       });
-    console.log("verse", verse);
   };
 
   render() {
