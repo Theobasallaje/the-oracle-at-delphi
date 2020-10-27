@@ -13,7 +13,7 @@ class Home extends Component {
   getJoke = () => {
     axios
     //   .get(`http://quotes.rest/bible/vod.json`) // only 10 calls an hour
-      .get(`https://sv443.net/jokeapi/v2/joke/Any?blacklistFlags=nsfw&type=single`)
+      .get(`https://sv443.net/jokeapi/v2/joke/Any?blacklistFlags=nsfw,religious,political,racist,sexist&type=single`)
       .then((response) => {
         // handle success
         console.log('response: ', response);
