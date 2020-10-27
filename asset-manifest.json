@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/the-oracle-at-delphi//static/css/main.5fee6a8e.chunk.css",
-    "main.js": "/the-oracle-at-delphi//static/js/main.d6a1b3fc.chunk.js",
-    "main.js.map": "/the-oracle-at-delphi//static/js/main.d6a1b3fc.chunk.js.map",
+    "main.js": "/the-oracle-at-delphi//static/js/main.f0686b08.chunk.js",
+    "main.js.map": "/the-oracle-at-delphi//static/js/main.f0686b08.chunk.js.map",
     "runtime-main.js": "/the-oracle-at-delphi//static/js/runtime-main.06d7bde8.js",
     "runtime-main.js.map": "/the-oracle-at-delphi//static/js/runtime-main.06d7bde8.js.map",
     "static/js/2.1e166d57.chunk.js": "/the-oracle-at-delphi//static/js/2.1e166d57.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.06d7bde8.js",
     "static/js/2.1e166d57.chunk.js",
     "static/css/main.5fee6a8e.chunk.css",
-    "static/js/main.d6a1b3fc.chunk.js"
+    "static/js/main.f0686b08.chunk.js"
   ]
 }
