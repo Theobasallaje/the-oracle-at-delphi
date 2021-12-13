@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/the-oracle-at-delphi/static/css/main.5fee6a8e.chunk.css",
-    "main.js": "/the-oracle-at-delphi/static/js/main.f0686b08.chunk.js",
-    "main.js.map": "/the-oracle-at-delphi/static/js/main.f0686b08.chunk.js.map",
-    "runtime-main.js": "/the-oracle-at-delphi/static/js/runtime-main.2672e0d3.js",
-    "runtime-main.js.map": "/the-oracle-at-delphi/static/js/runtime-main.2672e0d3.js.map",
-    "static/js/2.1e166d57.chunk.js": "/the-oracle-at-delphi/static/js/2.1e166d57.chunk.js",
-    "static/js/2.1e166d57.chunk.js.map": "/the-oracle-at-delphi/static/js/2.1e166d57.chunk.js.map",
-    "static/js/3.90b15dd1.chunk.js": "/the-oracle-at-delphi/static/js/3.90b15dd1.chunk.js",
-    "static/js/3.90b15dd1.chunk.js.map": "/the-oracle-at-delphi/static/js/3.90b15dd1.chunk.js.map",
-    "index.html": "/the-oracle-at-delphi/index.html",
-    "static/css/main.5fee6a8e.chunk.css.map": "/the-oracle-at-delphi/static/css/main.5fee6a8e.chunk.css.map",
-    "static/js/2.1e166d57.chunk.js.LICENSE.txt": "/the-oracle-at-delphi/static/js/2.1e166d57.chunk.js.LICENSE.txt",
-    "static/media/delphi.1d602b9a.jpg": "/the-oracle-at-delphi/static/media/delphi.1d602b9a.jpg"
+    "main.css": "/the-oracle-at-delphi//static/css/main.54f5395b.chunk.css",
+    "main.js": "/the-oracle-at-delphi//static/js/main.959d9a54.chunk.js",
+    "main.js.map": "/the-oracle-at-delphi//static/js/main.959d9a54.chunk.js.map",
+    "runtime-main.js": "/the-oracle-at-delphi//static/js/runtime-main.06d7bde8.js",
+    "runtime-main.js.map": "/the-oracle-at-delphi//static/js/runtime-main.06d7bde8.js.map",
+    "static/js/2.1e166d57.chunk.js": "/the-oracle-at-delphi//static/js/2.1e166d57.chunk.js",
+    "static/js/2.1e166d57.chunk.js.map": "/the-oracle-at-delphi//static/js/2.1e166d57.chunk.js.map",
+    "static/js/3.90b15dd1.chunk.js": "/the-oracle-at-delphi//static/js/3.90b15dd1.chunk.js",
+    "static/js/3.90b15dd1.chunk.js.map": "/the-oracle-at-delphi//static/js/3.90b15dd1.chunk.js.map",
+    "index.html": "/the-oracle-at-delphi//index.html",
+    "static/css/main.54f5395b.chunk.css.map": "/the-oracle-at-delphi//static/css/main.54f5395b.chunk.css.map",
+    "static/js/2.1e166d57.chunk.js.LICENSE.txt": "/the-oracle-at-delphi//static/js/2.1e166d57.chunk.js.LICENSE.txt",
+    "static/media/delphi.1d602b9a.jpg": "/the-oracle-at-delphi//static/media/delphi.1d602b9a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2672e0d3.js",
+    "static/js/runtime-main.06d7bde8.js",
     "static/js/2.1e166d57.chunk.js",
-    "static/css/main.5fee6a8e.chunk.css",
-    "static/js/main.f0686b08.chunk.js"
+    "static/css/main.54f5395b.chunk.css",
+    "static/js/main.959d9a54.chunk.js"
   ]
 }
