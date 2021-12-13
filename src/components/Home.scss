@@ -10,11 +10,20 @@
 
 img { 
   /* make blue shadow */
-  height: 50%;
-  width: 40%;
+  height: 26vh;
+  width: 72vw;
+  max-width: 500px;
   box-shadow: 0px 0px 100px #0099cc;
 }
 
-h1 {
+h2 {
   color: white;
+  padding: 10px;
+}
+
+@media only screen and (max-width: 800px) {
+  .homeContainer {
+    justify-content: space-evenly;
+    text-align: center;
+  }
 }
