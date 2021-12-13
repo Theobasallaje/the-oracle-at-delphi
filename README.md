@@ -2,7 +2,7 @@
 https://theobasallaje.github.io/the-oracle-at-delphi/
 
 # Screenshots
-![Homepage](https://theobasallaje.github.io/the_oracle_at_delphi.png)
+![Homepage](https://theobasallaje.github.io/the-oracle-at-delphi/the_oracle_at_delphi.png)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
